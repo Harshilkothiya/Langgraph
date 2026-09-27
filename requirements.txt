@@ -1,0 +1,7 @@
+langgraph
+langchain-google-genai
+langchain-openai
+langchain-community
+python-dotenv
+requests
+duckduckgo-search

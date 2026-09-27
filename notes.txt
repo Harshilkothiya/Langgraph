@@ -1,5 +1,0 @@
-1. In the parallel graph ---> we can not return state at parallel state because at a time there is multipal function that try to change in state so langgraph can not determin and conflict accure.
-instade of return full state we return only parth that we change
-
-2. persistence --> it store every Super stapes history
-
